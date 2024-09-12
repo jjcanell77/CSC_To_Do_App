@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">To Do List</string>
+    <string name="attention">Attention</string>
+    <string name="delete">Delete</string>
+    <string name="delete_question">Are you sure you want to delete?</string>
+    <string name="no_task_description">Looks like there are\nno Tasks so far.\nTap + to add.</string>
+    <string name="edit_task_title">Edit Task</string>
+    <string name="task">Task</string>
+    <string name="home_task">Task:</string>
+    <string name="home_is_complete">Is Complete:</string>
+    <string name="task_entry_title">Add Task</string>
+    <string name="no">No</string>
+    <string name="yes">Yes</string>
+    <string name="required_fields">*required fields</string>
+    <string name="item_entry_title">Add Task</string>
+    <string name="item_detail_title">Task Details</string>
+    <string name="task_required">Task*</string>
+    <string name="task_not_completed">Not Complete</string>
+    <string name="task_complete">Task Complete</string>
+    <string name="save_task">Save New Task</string>
+    <string name="update_task">Update Task</string>
+</resources>
